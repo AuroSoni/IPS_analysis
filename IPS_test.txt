@@ -1,0 +1,230 @@
+
+
+native-lib :: 1613213002873.60 File_Opened
+native-lib :: 1613213009550.01 Scanning_Started
+Beacon.h :: 1613213010206.50 Beacon_Added 8794 4919
+Beacon.h :: 1613213010206.70 Beacon_Chain 8794 -> End of Chain
+Beacon.h :: 1613213010251.48 Beacon_Added 22564 60692
+Beacon.h :: 1613213010251.67 Beacon_Chain 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213010364.71 Beacon_Added 50723 17503
+Beacon.h :: 1613213010364.88 Beacon_Chain 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213010568.23 Updating_Beacon 8794 4919
+Beacon.h :: 1613213010568.38 New_Beacon_State 8794 4919 -63.00
+Beacon.h :: 1613213010569.20 Updating_Beacon 22564 60692
+Beacon.h :: 1613213010570.32 New_Beacon_State 22564 60692 -70.00
+Beacon.h :: 1613213010570.73 Updating_Beacon 50723 17503
+Beacon.h :: 1613213010570.84 New_Beacon_State 50723 17503 -62.00
+Rssi.h :: 1613213010570.91 SMA_Call
+Rssi.h :: 1613213010570.98 Beacon_SMA 50723 17503 -62.00
+Rssi.h :: 1613213010571.06 Beacon_SMA 22564 60692 -70.00
+Rssi.h :: 1613213010571.16 Beacon_SMA 8794 4919 -63.00
+Beacon.h :: 1613213011035.07 Beacon_Added 14132 17892
+Beacon.h :: 1613213011035.29 Beacon_Chain 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213011175.75 Beacon_Added 59971 40801
+Beacon.h :: 1613213011175.92 Beacon_Chain 59971 -> 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213012643.26 Beacon_Added 1743 24356
+Beacon.h :: 1613213012643.47 Beacon_Chain 1743 -> 59971 -> 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213020618.85 Updating_Beacon 8794 4919
+Beacon.h :: 1613213020619.03 New_Beacon_State 8794 4919 -62.00
+Beacon.h :: 1613213020619.42 Updating_Beacon 22564 60692
+Beacon.h :: 1613213020619.52 New_Beacon_State 22564 60692 -70.00
+Beacon.h :: 1613213020619.82 Updating_Beacon 50723 17503
+Beacon.h :: 1613213020619.91 New_Beacon_State 50723 17503 -62.00
+Beacon.h :: 1613213020620.19 Updating_Beacon 14132 17892
+Beacon.h :: 1613213020620.27 New_Beacon_State 14132 17892 -63.00
+Beacon.h :: 1613213020620.56 Updating_Beacon 59971 40801
+Beacon.h :: 1613213020620.64 New_Beacon_State 59971 40801 -63.00
+Beacon.h :: 1613213020620.91 Updating_Beacon 1743 24356
+Beacon.h :: 1613213020620.99 New_Beacon_State 1743 24356 -85.00
+Rssi.h :: 1613213020621.06 SMA_Call
+Rssi.h :: 1613213020621.15 Beacon_SMA 1743 24356 -85.00
+Rssi.h :: 1613213020621.24 Beacon_SMA 59971 40801 -63.00
+Rssi.h :: 1613213020621.32 Beacon_SMA 14132 17892 -63.00
+Rssi.h :: 1613213020621.39 Beacon_SMA 50723 17503 -62.00
+Rssi.h :: 1613213020621.46 Beacon_SMA 22564 60692 -70.00
+Rssi.h :: 1613213020621.53 Beacon_SMA 8794 4919 -62.50
+Beacon.h :: 1613213030694.76 Updating_Beacon 8794 4919
+Beacon.h :: 1613213030694.91 New_Beacon_State 8794 4919 -61.00
+Beacon.h :: 1613213030695.31 Updating_Beacon 22564 60692
+Beacon.h :: 1613213030695.40 New_Beacon_State 22564 60692 -71.00
+Beacon.h :: 1613213030695.68 Updating_Beacon 50723 17503
+Beacon.h :: 1613213030695.76 New_Beacon_State 50723 17503 -61.00
+Beacon.h :: 1613213030696.06 Updating_Beacon 14132 17892
+Beacon.h :: 1613213030696.15 New_Beacon_State 14132 17892 -68.00
+Beacon.h :: 1613213030696.50 Updating_Beacon 59971 40801
+Beacon.h :: 1613213030696.60 New_Beacon_State 59971 40801 -62.00
+Beacon.h :: 1613213030696.93 Updating_Beacon 1743 24356
+Beacon.h :: 1613213030697.01 New_Beacon_State 1743 24356 -87.00
+Rssi.h :: 1613213030697.10 SMA_Call
+Rssi.h :: 1613213030697.17 Beacon_SMA 1743 24356 -86.00
+Rssi.h :: 1613213030697.26 Beacon_SMA 59971 40801 -62.50
+Rssi.h :: 1613213030697.36 Beacon_SMA 14132 17892 -65.50
+Rssi.h :: 1613213030697.46 Beacon_SMA 50723 17503 -61.67
+Rssi.h :: 1613213030697.56 Beacon_SMA 22564 60692 -70.33
+Rssi.h :: 1613213030697.67 Beacon_SMA 8794 4919 -62.00
+Beacon.h :: 1613213040970.71 Updating_Beacon 8794 4919
+Beacon.h :: 1613213040970.88 New_Beacon_State 8794 4919 -63.00
+Beacon.h :: 1613213040971.20 Updating_Beacon 22564 60692
+Beacon.h :: 1613213040971.30 New_Beacon_State 22564 60692 -68.00
+Beacon.h :: 1613213040971.67 Updating_Beacon 50723 17503
+Beacon.h :: 1613213040971.79 New_Beacon_State 50723 17503 -61.00
+Beacon.h :: 1613213040972.14 Updating_Beacon 14132 17892
+Beacon.h :: 1613213040972.27 New_Beacon_State 14132 17892 -64.00
+Beacon.h :: 1613213040972.55 Updating_Beacon 59971 40801
+Beacon.h :: 1613213040972.65 New_Beacon_State 59971 40801 -76.00
+Beacon.h :: 1613213040973.01 Updating_Beacon 1743 24356
+Beacon.h :: 1613213040973.10 New_Beacon_State 1743 24356 -83.00
+Rssi.h :: 1613213040973.20 SMA_Call
+Rssi.h :: 1613213040973.28 Beacon_SMA 1743 24356 -85.00
+Rssi.h :: 1613213040973.38 Beacon_SMA 59971 40801 -67.00
+Rssi.h :: 1613213040973.48 Beacon_SMA 14132 17892 -65.00
+Rssi.h :: 1613213040973.58 Beacon_SMA 50723 17503 -61.50
+Rssi.h :: 1613213040973.69 Beacon_SMA 22564 60692 -69.75
+Rssi.h :: 1613213040973.79 Beacon_SMA 8794 4919 -62.25
+Beacon.h :: 1613213051096.81 Updating_Beacon 8794 4919
+Beacon.h :: 1613213051096.97 New_Beacon_State 8794 4919 -62.00
+Beacon.h :: 1613213051097.27 Updating_Beacon 22564 60692
+Beacon.h :: 1613213051097.34 New_Beacon_State 22564 60692 -69.00
+Beacon.h :: 1613213051097.61 Updating_Beacon 50723 17503
+Beacon.h :: 1613213051097.68 New_Beacon_State 50723 17503 -62.00
+Beacon.h :: 1613213051097.97 Updating_Beacon 14132 17892
+Beacon.h :: 1613213051098.04 New_Beacon_State 14132 17892 -70.00
+Beacon.h :: 1613213051098.33 Updating_Beacon 59971 40801
+Beacon.h :: 1613213051098.39 New_Beacon_State 59971 40801 -72.00
+Beacon.h :: 1613213051098.67 Updating_Beacon 1743 24356
+Beacon.h :: 1613213051098.73 New_Beacon_State 1743 24356 -84.00
+Rssi.h :: 1613213051098.80 SMA_Call
+Rssi.h :: 1613213051098.85 Beacon_SMA 1743 24356 -84.75
+Rssi.h :: 1613213051098.92 Beacon_SMA 59971 40801 -68.25
+Rssi.h :: 1613213051098.99 Beacon_SMA 14132 17892 -66.25
+Rssi.h :: 1613213051099.06 Beacon_SMA 50723 17503 -61.60
+Rssi.h :: 1613213051099.12 Beacon_SMA 22564 60692 -69.60
+Rssi.h :: 1613213051099.19 Beacon_SMA 8794 4919 -62.20
+Beacon.h :: 1613213061236.48 Updating_Beacon 8794 4919
+Beacon.h :: 1613213061236.64 New_Beacon_State 8794 4919 -63.00
+Beacon.h :: 1613213061236.92 Updating_Beacon 22564 60692
+Beacon.h :: 1613213061236.99 New_Beacon_State 22564 60692 -68.00
+Beacon.h :: 1613213061237.26 Updating_Beacon 50723 17503
+Beacon.h :: 1613213061237.32 New_Beacon_State 50723 17503 -61.00
+Beacon.h :: 1613213061238.14 Updating_Beacon 14132 17892
+Beacon.h :: 1613213061238.21 New_Beacon_State 14132 17892 -64.00
+Beacon.h :: 1613213061238.48 Updating_Beacon 59971 40801
+Beacon.h :: 1613213061238.54 New_Beacon_State 59971 40801 -98.00
+Beacon.h :: 1613213061238.81 Updating_Beacon 1743 24356
+Beacon.h :: 1613213061238.87 New_Beacon_State 1743 24356 -78.00
+Rssi.h :: 1613213061238.94 SMA_Call
+Rssi.h :: 1613213061238.99 Beacon_SMA 1743 24356 -83.40
+Rssi.h :: 1613213061239.05 Beacon_SMA 59971 40801 -74.20
+Rssi.h :: 1613213061239.12 Beacon_SMA 14132 17892 -65.80
+Rssi.h :: 1613213061239.19 Beacon_SMA 50723 17503 -61.50
+Rssi.h :: 1613213061239.26 Beacon_SMA 22564 60692 -69.33
+Rssi.h :: 1613213061239.32 Beacon_SMA 8794 4919 -62.33
+Beacon.h :: 1613213069911.40 Removing_Beacon 59971 40801
+Beacon.h :: 1613213069911.61 Beacon_Chain 1743 -> 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213071372.99 Updating_Beacon 8794 4919
+Beacon.h :: 1613213071374.38 New_Beacon_State 8794 4919 -62.00
+Beacon.h :: 1613213071375.16 Updating_Beacon 22564 60692
+Beacon.h :: 1613213071375.41 New_Beacon_State 22564 60692 -68.00
+Beacon.h :: 1613213071375.70 Updating_Beacon 50723 17503
+Beacon.h :: 1613213071375.78 New_Beacon_State 50723 17503 -62.00
+Beacon.h :: 1613213071376.14 Updating_Beacon 14132 17892
+Beacon.h :: 1613213071376.24 New_Beacon_State 14132 17892 -64.00
+Beacon.h :: 1613213071376.60 Updating_Beacon 1743 24356
+Beacon.h :: 1613213071376.70 New_Beacon_State 1743 24356 -82.00
+Rssi.h :: 1613213071376.80 SMA_Call
+Rssi.h :: 1613213071376.87 Beacon_SMA 1743 24356 -83.17
+Rssi.h :: 1613213071376.96 Beacon_SMA 14132 17892 -65.50
+Rssi.h :: 1613213071377.05 Beacon_SMA 50723 17503 -61.57
+Rssi.h :: 1613213071377.14 Beacon_SMA 22564 60692 -69.14
+Rssi.h :: 1613213071377.22 Beacon_SMA 8794 4919 -62.29
+Beacon.h :: 1613213081452.44 Updating_Beacon 8794 4919
+Beacon.h :: 1613213081452.60 New_Beacon_State 8794 4919 -64.00
+Beacon.h :: 1613213081453.00 Updating_Beacon 22564 60692
+Beacon.h :: 1613213081453.11 New_Beacon_State 22564 60692 -67.00
+Beacon.h :: 1613213081453.45 Updating_Beacon 50723 17503
+Beacon.h :: 1613213081453.55 New_Beacon_State 50723 17503 -62.00
+Beacon.h :: 1613213081453.93 Updating_Beacon 14132 17892
+Beacon.h :: 1613213081454.02 New_Beacon_State 14132 17892 -65.00
+Beacon.h :: 1613213081454.45 Updating_Beacon 1743 24356
+Beacon.h :: 1613213081454.58 New_Beacon_State 1743 24356 -82.00
+Rssi.h :: 1613213081454.67 SMA_Call
+Rssi.h :: 1613213081454.73 Beacon_SMA 1743 24356 -83.00
+Rssi.h :: 1613213081454.81 Beacon_SMA 14132 17892 -65.43
+Rssi.h :: 1613213081454.89 Beacon_SMA 50723 17503 -61.62
+Rssi.h :: 1613213081454.98 Beacon_SMA 22564 60692 -68.88
+Rssi.h :: 1613213081455.06 Beacon_SMA 8794 4919 -62.50
+Beacon.h :: 1613213082245.34 Beacon_Added 59971 40801
+Beacon.h :: 1613213082245.54 Beacon_Chain 59971 -> 1743 -> 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+native-lib :: 1613213090598.70 Stopping_Scan
+Beacon.h :: 1613213090598.86 Removing_Beacon 59971 40801
+Beacon.h :: 1613213090598.93 Beacon_Chain 1743 -> 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213090599.38 Removing_Beacon 1743 24356
+Beacon.h :: 1613213090599.50 Beacon_Chain 14132 -> 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213090599.75 Removing_Beacon 14132 17892
+Beacon.h :: 1613213090599.84 Beacon_Chain 50723 -> 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213090600.05 Removing_Beacon 50723 17503
+Beacon.h :: 1613213090600.13 Beacon_Chain 22564 -> 8794 -> End of Chain
+Beacon.h :: 1613213090600.30 Removing_Beacon 22564 60692
+Beacon.h :: 1613213090600.38 Beacon_Chain 8794 -> End of Chain
+Beacon.h :: 1613213090600.50 Removing_Beacon 8794 4919
+Beacon.h :: 1613213090600.58 Beacon_Chain End of Chain
+native-lib :: 1613213090600.67 Scanning_Stopped
+native-lib :: 1613213097994.01 Scanning_Started
+Beacon.h :: 1613213098815.48 Beacon_Added 1743 24356
+Beacon.h :: 1613213098815.69 Beacon_Chain 1743 -> End of Chain
+Beacon.h :: 1613213098923.95 Beacon_Added 50723 17503
+Beacon.h :: 1613213098924.16 Beacon_Chain 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213099278.62 Beacon_Added 8794 4919
+Beacon.h :: 1613213099278.82 Beacon_Chain 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213099435.62 Beacon_Added 14132 17892
+Beacon.h :: 1613213099435.81 Beacon_Chain 14132 -> 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213099715.72 Updating_Beacon 1743 24356
+Beacon.h :: 1613213099715.86 New_Beacon_State 1743 24356 -80.00
+Beacon.h :: 1613213099716.18 Updating_Beacon 50723 17503
+Beacon.h :: 1613213099716.26 New_Beacon_State 50723 17503 -61.00
+Beacon.h :: 1613213099716.54 Updating_Beacon 8794 4919
+Beacon.h :: 1613213099716.61 New_Beacon_State 8794 4919 -64.00
+Beacon.h :: 1613213099716.88 Updating_Beacon 14132 17892
+Beacon.h :: 1613213099716.94 New_Beacon_State 14132 17892 -65.00
+Rssi.h :: 1613213099717.01 SMA_Call
+Rssi.h :: 1613213099717.09 Beacon_SMA 14132 17892 -65.00
+Rssi.h :: 1613213099717.19 Beacon_SMA 8794 4919 -64.00
+Rssi.h :: 1613213099717.27 Beacon_SMA 50723 17503 -61.00
+Rssi.h :: 1613213099717.35 Beacon_SMA 1743 24356 -80.00
+Beacon.h :: 1613213099916.71 Beacon_Added 22564 60692
+Beacon.h :: 1613213099916.91 Beacon_Chain 22564 -> 14132 -> 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213099954.92 Beacon_Added 59971 40801
+Beacon.h :: 1613213099955.13 Beacon_Chain 59971 -> 22564 -> 14132 -> 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213109966.64 Updating_Beacon 1743 24356
+Beacon.h :: 1613213109966.79 New_Beacon_State 1743 24356 -73.00
+Beacon.h :: 1613213109967.13 Updating_Beacon 50723 17503
+Beacon.h :: 1613213109967.22 New_Beacon_State 50723 17503 -64.00
+Beacon.h :: 1613213109967.50 Updating_Beacon 8794 4919
+Beacon.h :: 1613213109967.57 New_Beacon_State 8794 4919 -62.00
+Beacon.h :: 1613213109967.85 Updating_Beacon 14132 17892
+Beacon.h :: 1613213109967.92 New_Beacon_State 14132 17892 -68.00
+Beacon.h :: 1613213109968.20 Updating_Beacon 22564 60692
+Beacon.h :: 1613213109968.27 New_Beacon_State 22564 60692 -65.00
+Beacon.h :: 1613213109968.54 Updating_Beacon 59971 40801
+Beacon.h :: 1613213109968.67 New_Beacon_State 59971 40801 -60.00
+Rssi.h :: 1613213109968.74 SMA_Call
+Rssi.h :: 1613213109968.83 Beacon_SMA 59971 40801 -60.00
+Rssi.h :: 1613213109968.92 Beacon_SMA 22564 60692 -65.00
+Rssi.h :: 1613213109968.99 Beacon_SMA 14132 17892 -66.50
+Rssi.h :: 1613213109969.06 Beacon_SMA 8794 4919 -63.00
+Rssi.h :: 1613213109969.13 Beacon_SMA 50723 17503 -62.50
+Rssi.h :: 1613213109969.20 Beacon_SMA 1743 24356 -76.50
+native-lib :: 1613213117996.51 Stopping_Scan
+Beacon.h :: 1613213117996.70 Removing_Beacon 59971 40801
+Beacon.h :: 1613213117996.83 Beacon_Chain 22564 -> 14132 -> 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213117997.26 Removing_Beacon 22564 60692
+Beacon.h :: 1613213117997.36 Beacon_Chain 14132 -> 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213117997.62 Removing_Beacon 14132 17892
+Beacon.h :: 1613213117997.71 Beacon_Chain 8794 -> 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213117997.91 Removing_Beacon 8794 4919
+Beacon.h :: 1613213117997.99 Beacon_Chain 50723 -> 1743 -> End of Chain
+Beacon.h :: 1613213117998.16 Removing_Beacon 50723 17503
+Beacon.h :: 1613213117998.24 Beacon_Chain 1743 -> End of Chain
+Beacon.h :: 1613213117998.36 Removing_Beacon 1743 24356
+Beacon.h :: 1613213117998.43 Beacon_Chain End of Chain
+native-lib :: 1613213117998.51 Scanning_Stopped
